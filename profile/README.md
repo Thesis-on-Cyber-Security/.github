@@ -34,6 +34,7 @@ Yes, We have good news!! We want to make this project as open source so that you
 ### Acknowledgements
 - Thesis Supervisor [Brig Gen Md Abdur Razzak Sir](https://mist.ac.bd/department/cse/facultyMembers/col_md_abdur_razzak_sup_psc-405)
 - Thesis Co-Supervisor [Raiyan Rahman Sir](https://mist.ac.bd/department/cse/facultyMembers/raiyan_rahman-17)
+- Thesis Advisor [Dr. Md. Mahbubur Rahman Sir](https://mist.ac.bd/department/cse/facultyMembers/dr_md_mahbubur_rahman-2)
 
 ### Team Members
 - [Abdullah Al Masum](https://masumbhai.me)
