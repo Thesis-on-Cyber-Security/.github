@@ -38,7 +38,7 @@ Yes, We have good news!! We want to make this project as open source so that you
 
 ### Team Members
 - [Abdullah Al Masum](https://masumbhai.me)
-- Shad Reza
+- [Shad Reza](https://shadreza-portfolio-shadreza.vercel.app/)
 - Abdul Al Emon
 
 #### Feedback
